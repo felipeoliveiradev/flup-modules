@@ -1,4 +1,4 @@
-package com.modulo.base.modules.Flup.system.validation.Exceptio
+package com.modulo.base.modules.Flup.system.validation.Exceptions;
 
 import com.modulo.base.modules.Flup.system.required.helpers.AggregateRoot;
 import com.modulo.base.modules.Flup.system.required.helpers.Identifier;
